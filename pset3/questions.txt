@@ -1,0 +1,11 @@
+1 - Besides 4x4 (which are the game of fifteen`s dimensions), what other dimensions does the framework allow?
+    3x3-9x9
+
+2 - With what sort of data structure is the game`s board represented?
+    3 dimensional array (type int)
+
+3 - What functions is called to greet the player at game`s start?
+    greet();
+
+4 - What functions do you apparently need to implement?
+    init, draw, move, won

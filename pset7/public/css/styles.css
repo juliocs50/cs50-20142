@@ -1,0 +1,72 @@
+
+
+/****************************************************************************
+ * styles.css
+ *
+ * Computer Science 50
+ * Problem Set 7
+ *
+ * Global CSS.
+ ***************************************************************************/
+
+.container
+{
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+
+.menu 
+{
+        text-align:center;
+}
+
+.hello
+{
+    /* center contents */
+    text-align: center;
+    color: #1aff66;
+        text-decoration: strong;
+        background-color: lightgrey;
+        font-size: 16px;
+     
+}
+
+#top
+{
+    /* center contents */
+    text-align: center;
+    margin: 40px;
+}
+
+#middle
+{
+    /* center contents */
+    text-align: center;
+    
+}
+
+#menu
+{
+    /* center contents */
+    text-align: center;
+    color: #ff1ab3;
+        text-decoration: strong;
+        margin: 30px;
+     
+}
+
+
+#bottom
+{
+    /* shrink bottom's font size */
+    font-size: smaller;
+
+    /* surround with whitespace */
+    margin: 20px;
+
+    /* center contents */
+    text-align: center;
+}
+
+
